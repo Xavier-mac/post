@@ -1,0 +1,39 @@
+header {
+    background-color: black;
+    text-align: center;
+    padding: 25px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 70px;
+}
+h1 {
+    color: white;
+}
+body {
+    padding: 25px;
+    margin: 25px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 70px;
+}
+h2 {
+    text-align: center;
+    size: 50px;
+}
+img {
+    display: flex;
+    height: 600px;
+    width: 500px;
+    align-content: center;
+}
+.ind {
+    text-align: center;
+}
+footer {
+    background-color: black;
+    color: white;
+    padding: 25px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 70px;
+}
